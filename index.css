@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+.bg-container{
+    height: 100vh;
+    background-color: lightslategrey;
+    border-radius: 20px;
+    border: 3px solid darkblue;
+    padding: 20px;
+}
+.heading{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.image-container{
+    width: 70%;
+    background-color: whitesmoke;
+    margin: 30px;
+    padding: 20px;
+    max-width: 710px;
+    margin: auto;
+    margin-top: 40px;
+    overflow-x: auto;
+}
+.imgaehold-container{
+    background-color: antiquewhite;
+    width: 900px;
+    padding: 30px
+    
+}
+.image{
+    height: 250px;
+    width: 200px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
